@@ -2,7 +2,7 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou procurando trabalhar com front-end
-- 🌱 Atualmente estou estudando Desenvolvimento de Software Multiplataforma na Fatec Zona Sul
+- 🌱 Estou estudando Desenvolvimento de Software Multiplataforma na Fatec Zona Sul
 - 👯 Estou procurando aprender o maximo sobre desenvolvimento web
 - 📫 Como entrar em contato comigo: ms5806166@gmail.com
 - 😄 Pronomes: ele/dele
