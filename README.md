@@ -11,11 +11,19 @@
 - ⚡ Curiosidade: Sou uma pessoa aficionado por proogramação e desenvolvimento de aplicações
 -->
 
-<div align="center"><br>
+<h3>Estou aprendendo:</h3>
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>C/C++</li>
+    <li>Java</li>
+    <li>javaScript</li>
+    <li>Python</li>
+<ul>
+<div><hr><br>
   <a href="https://github.com/Marcone-Santos1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcone-Santos1&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcone-Santos1&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
 <div style="display: inline_block"><br>
   <h2>Tecnologias que estou estudando atualmente</h2><br>
   <img align="center" alt="Marcone-css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
@@ -29,4 +37,5 @@
   <a href="https://instagram.com/marcone231" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcone-santos-5706831a8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:ms5806166@gmail.com"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--C75QF96b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite"></a>
+</div>
 </div>
