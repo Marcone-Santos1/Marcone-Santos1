@@ -19,7 +19,11 @@
     <li>Java</li>
     <li>javaScript</li>
     <li>Python</li>
+    <li>github</li>
+    <li>git</li>
     <div style="display: inline_block"><br>
+      <img align="center" alt="Marcone-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+      <img align="center" alt="Marcone-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
       <img align="center" alt="Marcone-css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
       <img align="center" alt="Marcone-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
       <img align="center" alt="Marcone-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
