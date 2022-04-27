@@ -6,7 +6,7 @@
 - 🔭 Atualmente estou procurando trabalhar com front-end
 - 🌱 Estou estudando Desenvolvimento de Software Multiplataforma na Fatec Zona Sul
 - 👯 Estou procurando aprender o maximo sobre desenvolvimento web
-- 📫 Como entrar em contato comigo: ms5806166@gmail.com
+- 📫 Entre em contato: ms5806166@gmail.com e/ou (11) 96424-8721
 - 😄 Pronomes: ele/dele
 - ⚡ Curiosidade: Sou uma pessoa aficionado por proogramação e desenvolvimento de aplicações
 -->
