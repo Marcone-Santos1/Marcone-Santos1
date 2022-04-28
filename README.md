@@ -27,8 +27,8 @@
     <li>Python</li>
     <li>github</li>
     <li>git</li>
-  
-    <div style="display: inline_block">
+</ul>
+<div style="display: inline_block">
       <img align="center" alt="Marcone-git" width="40" src="https://img.icons8.com/color/48/000000/github--v1.png"/>
       <img align="center" alt="Marcone-git" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=40&color=currentColor" />
       <img align="center" alt="Marcone-css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
@@ -39,7 +39,6 @@
       <img align="center" alt="Marcone-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
       <img align="center" alt="Marcone-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
     </div>
-<ul>
   <div> 
     <h2>Midias socias</h2><br>
   <a href="https://instagram.com/marcone231" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
