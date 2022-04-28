@@ -1,7 +1,7 @@
 ![](http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif)
 
 <div align="center" width="100%">
-  <a href="https://github.com/Marcone-Santos1">
+  <a href="https://github.com/Marcone-Santos1"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcone-Santos1&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcone-Santos1&layout=compact&langs_count=7&theme=github_dark"/>
  </div>
@@ -27,7 +27,8 @@
     <li>Python</li>
     <li>github</li>
     <li>git</li>
-    <div style="display: inline_block"><br>
+  
+    <div style="display: inline_block">
       <img align="center" alt="Marcone-git" width="40" src="https://img.icons8.com/color/48/000000/github--v1.png"/>
       <img align="center" alt="Marcone-git" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=40&color=currentColor" />
       <img align="center" alt="Marcone-css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
