@@ -4,7 +4,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcone-Santos1&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcone-Santos1&layout=compact&langs_count=7&theme=github_dark">
  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marcone-Santos1&theme=github_dark">
-
  </div>
 
 ## Olá, me chamo Marcone Santos ! 
@@ -29,6 +28,7 @@
     <li>github</li>
     <li>git</li>
 </ul>
+
 <div style="display: inline_block">
       <img align="center" alt="Marcone-git" width="40" src="https://img.icons8.com/color/48/000000/github--v1.png"/>
       <img align="center" alt="Marcone-git" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=40&color=currentColor" />
@@ -40,9 +40,10 @@
       <img align="center" alt="Marcone-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
       <img align="center" alt="Marcone-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
     </div>
-  <div> 
-    <h2>Midias socias</h2><br>
-  <a href="https://instagram.com/marcone231" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcone-santos-5706831a8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:ms5806166@gmail.com"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--C75QF96b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite"></a>
+    
+<div> 
+<h2>Midias socias</h2><br>
+<a href="https://instagram.com/marcone231" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/marcone-santos-5706831a8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:ms5806166@gmail.com"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--C75QF96b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite"></a>
 </div>
