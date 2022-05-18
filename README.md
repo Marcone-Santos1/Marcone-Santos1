@@ -1,12 +1,6 @@
 ![](http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif)
-
-<div align="center" width="100%">
-  <a href="https://github.com/rafaballerini">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcone-Santos1&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcone-Santos1&layout=compact&langs_count=7&theme=github_dark">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marcone-Santos1&theme=github_dark">
-  </a>
- </div>
+![Marcone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcone-Santos1&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcone-Santos1&layout=compact&theme=cobalt)](https://github.com/Marcone-Santos1/github-readme-stats)
 
 ## Olá, me chamo Marcone Santos ! 
 ### Bem vindo ao meu perfil GitHub 👋
