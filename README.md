@@ -21,7 +21,7 @@
 <ul>
     <li>HTML</li>
     <li>CSS</li>
-    <li>C/C++</li>
+    <li>C</li>
     <li>Java</li>
     <li>javaScript</li>
     <li>Python</li>
@@ -35,7 +35,6 @@
       <img align="center" alt="Marcone-css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
       <img align="center" alt="Marcone-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
       <img align="center" alt="Marcone-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-      <img align="center" alt="Marcone-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
       <img align="center" alt="Marcone-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
       <img align="center" alt="Marcone-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
       <img align="center" alt="Marcone-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
