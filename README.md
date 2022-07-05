@@ -45,3 +45,8 @@
 <a href="https://www.linkedin.com/in/marcone-santos-5706831a8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:ms5806166@gmail.com"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--C75QF96b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite"></a>
 </div>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marcone-Santos1/Marcone-Santos1/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/Marcone-Santos1/Marcone-Santos1/output/github-snake.svg">
+</picture>
