@@ -15,29 +15,28 @@
 - 📫 Entre em contato: ms5806166@gmail.com e/ou (11) 96424-8721
 - 😄 Pronomes: ele/dele
 - ⚡ Curiosidade: Sou uma pessoa aficionado por proogramação e desenvolvimento de aplicações
--->
 
 <h3>Estou aprendendo:</h3>
 <ul>
     <li>HTML</li>
     <li>CSS</li>
+    <li>JavaScript</li>
+    <li>Bootstrap</li>
     <li>C</li>
     <li>Java</li>
-    <li>javaScript</li>
-    <li>Python</li>
-    <li>github</li>
+    <li>PHP</li>
     <li>git</li>
 </ul>
 
 <div style="display: inline_block">
-      <img align="center" alt="Marcone-git" width="40" src="https://img.icons8.com/color/48/000000/github--v1.png"/>
-      <img align="center" alt="Marcone-git" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=40&color=currentColor" />
-      <img align="center" alt="Marcone-css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
       <img align="center" alt="Marcone-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-      <img align="center" alt="Marcone-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+      <img align="center" alt="Marcone-css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
       <img align="center" alt="Marcone-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      <img align="center" alt="Marcone-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+      <img align="center" alt="Marcone-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
       <img align="center" alt="Marcone-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-      <img align="center" alt="Marcone-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+      <img align="center" alt="Marcone-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+      <img align="center" alt="Marcone-git" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=40&color=currentColor" />
     </div>
     
 <div> 
