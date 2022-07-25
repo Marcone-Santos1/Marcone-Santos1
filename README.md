@@ -9,7 +9,7 @@
 ## Olá, me chamo Marcone Santos ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou procurando trabalhar com front-end
+- 🔭 Atualmente estou procurando trabalhar com full-stack web
 - 🌱 Estou estudando Desenvolvimento de Software Multiplataforma na Fatec Zona Sul
 - 👯 Estou procurando aprender o maximo sobre desenvolvimento web
 - 📫 Entre em contato: ms5806166@gmail.com e/ou (11) 96424-8721
