@@ -14,7 +14,7 @@
 - 👯 Estou procurando aprender o maximo sobre desenvolvimento web
 - 📫 Entre em contato: ms5806166@gmail.com e/ou (11) 96424-8721
 - 😄 Pronomes: ele/dele
-- ⚡ Curiosidade: Sou uma pessoa aficionado por proogramação e desenvolvimento de aplicações
+- ⚡ Curiosidade: Sou uma pessoa aficionado por programação e desenvolvimento de aplicações
 
 <h3>Estou aprendendo:</h3>
 <ul>
