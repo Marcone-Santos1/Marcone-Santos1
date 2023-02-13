@@ -14,7 +14,7 @@
 - ⚡ Curiosidade: Sou uma pessoa aficionado por programação e desenvolvimento de aplicações
 
 > ### Skills && Estudando :grinning:
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,nodejs,python,selenium,linux,aws,git,github&perline=10)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,nodejs,vue,python,selenium,linux,aws,git,github&perline=10)](https://skillicons.dev) 
 
 > ## Midias socias
 <a href="https://instagram.com/marcone231" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
