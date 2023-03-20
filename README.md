@@ -7,7 +7,7 @@
 
 > ### Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou procurando trabalhar como fback-end web
+- 🔭 Atualmente estou procurando trabalhar como back-end web
 - 🌱 Estou estudando Desenvolvimento de Software Multiplataforma na Fatec Zona Sul
 - 👯 Estou procurando aprender o maximo sobre desenvolvimento web
 - 😄 Pronomes: ele/dele
