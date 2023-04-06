@@ -3,8 +3,8 @@
 ## Olá, me chamo Marcone Santos ! 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcone-Santos1&show_icons=true&theme=transparent)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Marcone-Santos1&theme=transparent)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcone-Santos1&show_icons=true&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Marcone-Santos1&theme=transparent)](https://git.io/streak-stats)
 > ### Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou procurando trabalhar como back-end web
