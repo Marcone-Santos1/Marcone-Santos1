@@ -10,9 +10,7 @@
 - 🔭 Atualmente estou procurando trabalhar como back-end web
 - 🌱 Estou estudando Desenvolvimento de Software Multiplataforma na Fatec Zona Sul
 - 👯 Estou procurando aprender o maximo sobre desenvolvimento web
-- 😄 Pronomes: ele/dele
-- ⚡ Curiosidade: Sou uma pessoa aficionado por programação e desenvolvimento de aplicações
-
+  
 > ### Skills && Estudando :grinning:
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,js,nodejs,vue,python,selenium,linux,aws,git,github&perline=10)](https://skillicons.dev) 
 
