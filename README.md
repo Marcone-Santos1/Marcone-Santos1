@@ -8,11 +8,11 @@
 > ### Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou procurando trabalhar como back-end web
-- 🌱 Estou estudando Desenvolvimento de Software Multiplataforma na Fatec Zona Sul
+- 🌱 Estou estudando Desenvolvimento de Software Multiplataforma na Fatec Zona Sul e Tecnologia da informação na UNIVESP
 - 👯 Estou procurando aprender o maximo sobre desenvolvimento web
   
-> ### Skills && Estudando :grinning:
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,nodejs,vue,python,selenium,linux,aws,git,github&perline=10)](https://skillicons.dev) 
+> ### Skills :grinning:
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,nodejs,nest,vue,react,python,selenium,linux,aws,git,github&perline=10)](https://skillicons.dev) 
 
 > ## Midias socias
 <a href="https://instagram.com/marcone231" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
