@@ -12,7 +12,7 @@
 - 👯 Estou procurando aprender o maximo sobre desenvolvimento web
   
 > ### Skills :grinning:
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,nodejs,nest,vue,react,python,selenium,linux,aws,git,github&perline=10)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,nodejs,nest,vue,react,python,selenium,linux,aws&perline=10)](https://skillicons.dev) 
 
 > ## Midias socias
 <a href="https://instagram.com/marcone231" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
