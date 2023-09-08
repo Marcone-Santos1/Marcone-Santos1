@@ -7,9 +7,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Marcone-Santos1&theme=transparent)](https://git.io/streak-stats)
 > ### Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou procurando trabalhar como back-end web
 - 🌱 Estou estudando Desenvolvimento de Software Multiplataforma na Fatec Zona Sul e Tecnologia da informação na UNIVESP
-- 👯 Estou procurando aprender o maximo sobre desenvolvimento web
   
 > ### Skills :grinning:
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,js,nodejs,nest,vue,react,python,selenium,linux,aws&perline=10)](https://skillicons.dev) 
