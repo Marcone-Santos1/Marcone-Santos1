@@ -1,6 +1,6 @@
 ![](https://mir-s3-cdn-cf.behance.net/project_modules/fs/81bb4b165684019.640b6038d133e.gif)
 
-## Olá, me chamo Marcone Santos ! 
+## Olá, me chamo Marcone Santos! 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcone-Santos1&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcone-Santos1&show_icons=true&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
