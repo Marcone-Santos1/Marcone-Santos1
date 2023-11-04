@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcone-Santos1&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcone-Santos1&show_icons=true&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Marcone-Santos1&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Marcone-Santos1&theme=dark)](https://git.io/streak-stats)
 > ### Bem vindo ao meu perfil GitHub 👋
 
 - 🌱 Estou estudando Desenvolvimento de Software Multiplataforma na Fatec Zona Sul e Tecnologia da informação na UNIVESP
